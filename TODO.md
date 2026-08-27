@@ -1,6 +1,5 @@
 - [ ] decide hairstyle - study
 - [ ] model/texture hair
-- [ ] add more colour segments (white/orange) - hips? breasts? shoulders?
 - [ ] improve chest detail/centerpiece
 - [ ] repaint mouth textures - study myself
 - [ ] collar/neckpiece
