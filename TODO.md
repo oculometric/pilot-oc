@@ -1,10 +1,18 @@
 - [ ] decide hairstyle - study
-- [ ] model/texture hair
+- [ ] decide on outer clothing
+- [ ] come up with a name/id/callsign
+- [ ] personality
+
+- [ ] redo the feet
 - [ ] improve chest detail/centerpiece
 - [ ] repaint mouth textures - study myself
+
+- [ ] model/texture hair
 - [ ] collar/neckpiece
-- [ ] decide on outer clothing
+
 - [ ] model outer clothing
 - [ ] texture outer clothing
-- [ ] come up with a name/id/callsign
 - [ ] model/texture muzzle headset
+
+- [ ] re-rig
+- [ ] IKs for hands/elbows, feet/knees, eyes?
