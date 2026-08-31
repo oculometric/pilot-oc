@@ -1,4 +1,3 @@
-- [ ] decide hairstyle - study
 - [ ] decide on outer clothing
 - [ ] come up with a name/id/callsign
 - [ ] personality
@@ -7,7 +6,7 @@
 - [ ] improve chest detail/centerpiece
 - [ ] repaint mouth textures - study myself
 
-- [ ] model/texture hair
+- [ ] model hair
 - [ ] collar/neckpiece
 
 - [ ] model outer clothing
