@@ -6,7 +6,6 @@
 - [ ] improve chest detail/centerpiece
 - [ ] repaint mouth textures - study myself
 
-- [ ] model hair
 - [ ] collar/neckpiece
 
 - [ ] model outer clothing
